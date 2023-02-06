@@ -1,0 +1,18 @@
+SAVE_DESIRED_IMAGES: 0
+SAVE_IMAGES: 0
+SHOW_IMAGES: 0
+
+cam_drone_1: 1
+cam_drone_2: 1
+cam_drone_3: 1
+cam_drone_4: 1
+
+seguimiento_1: [0]
+seguimiento_2: [0]
+seguimiento_3: [1]
+seguimiento_4: [2]
+
+bearing_1: [[]]
+bearing_2: [[]]
+bearing_3: [[1, 0, 0], [0, 1, 0]]
+bearing_4: [[1, 0, 0], [0, 1, 0]]
